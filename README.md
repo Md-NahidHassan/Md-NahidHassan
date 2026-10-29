@@ -54,21 +54,72 @@ I am a Computer Science student who loves software development, AI, and machine 
 </table>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Md-NahidHassan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://streak-stats.demolab.com/?user=Md-NahidHassan&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-NahidHassan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Md-NahidHassan&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-readme-stats.vercel.app/api?username=Md-NahidHassan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-NahidHassan&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="49%" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Md-NahidHassan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-NahidHassan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="42%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-NahidHassan&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="96%" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Md-NahidHassan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Md-NahidHassan&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Md-NahidHassan/Md-NahidHassan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Md-NahidHassan/Md-NahidHassan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Md-NahidHassan/Md-NahidHassan/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+### 🔝 Top Contributed Repo
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=Md-NahidHassan&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,40:0f2d48,100:0d1117&height=130&section=footer&animation=fadeIn" width="100%" />
+
+[![](https://komarev.com/ghpvc/?username=Md-NahidHassan&style=for-the-badge&color=58a6ff)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
