@@ -1,4 +1,8 @@
-<h1 align="center">Hello I am Nahid Hassan</h1>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7B731&center=true&vCenter=true&width=600&lines=Hello!+I'm+Nahid+Hassan+👋;Welcome+to+my+GitHub!+🚀;CSE+Student+%7C+ML+Enthusiast;Full+Stack+Developer+💻)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Dev Working" width="60%"/>
