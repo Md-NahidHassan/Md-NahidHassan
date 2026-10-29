@@ -8,28 +8,6 @@
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Dev Working" width="60%"/>
 </div>
 
----
-
-# Md-NahidHassan231
-### 🔭 I'm currently working on
-* Software projects using **Spring Boot**.
-* Collaborative research and development in **NLP** and **LLM**.
-
-### 👯 I'm looking to collaborate on
-* Advanced **Machine Learning** projects and software development.
-
-### 🤝 I'm looking for help with
-* Best practices for **LLM integration** and **NLP** model development.
-
-### 🌱 I'm currently learning
-* Deep dive into **Machine Learning** algorithms.
-
-### 💬 Ask me about
-* **Spring Boot**, **NLP**, **LLM**, and my journey as a **CSE student**.
-
-### ⚡ Fun fact
-*I love Code and also love traveling and exploring new places, though it's unfortunate that I sometimes get deceived by people.
-
 🤷‍♂️ About Me: 
 I am a Computer Science student who loves software development, AI, and machine learning. I enjoy solving real-world problems through technology and learning new skills by working on practical projects. I am a quick learner, pay attention to details, and always enjoy exploring new technologies to build useful and user-friendly applications.
 
