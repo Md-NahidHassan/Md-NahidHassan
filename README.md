@@ -53,9 +53,9 @@ I am a Computer Science student who loves software development, AI, and machine 
 </tr>
 </table>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Md-NahidHassan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Md-NahidHassan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Md-NahidHassan&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Md-NahidHassan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-NahidHassan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Md-NahidHassan&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
