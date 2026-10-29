@@ -47,7 +47,7 @@ I am a Computer Science student who loves software development, AI, and machine 
 </td>
 <td valign="middle" align="center" width="300">
 
-<img src="https://raw.githubusercontent.com/anmol098/anmol098/master/assets/coding.gif" alt="Coding From Home" width="280"/>
+<img src="https://raw.githubusercontent.com/Md-NahidHassan/Md-NahidHassan/main/assets/coding_from_home.png" alt="Coding From Home" width="280"/>
 
 </td>
 </tr>
